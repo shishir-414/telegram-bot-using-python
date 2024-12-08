@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
 # Define constants
-TOKEN: Final = '7286490188:AAEb1cP1ilQFBuIyCmGuPshgZOFjW5fWPWU'
+TOKEN: Final = '*********'
 BOT_USERNAME: Final = '@WEpic_bot'
 
 # Start command handler
